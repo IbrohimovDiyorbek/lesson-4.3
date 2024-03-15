@@ -1,4 +1,4 @@
-alert("Sizda hozir random sonlar chiqa boshlaydi");
+alert("Sizda hozir random sonlar chiqa boshlaydi😉");
 let random = Math.trunc(101 * Math.random());
 alert(random);
 let plus = (2);
